@@ -30,4 +30,12 @@ The Contact page provides a form where visitors can enter their name, email, and
 
 Throughout the entire site, I applied consistent color schemes, font choices, and layout principles using CSS. I also used media queries to ensure that the design is responsive and works well on mobile devices, tablets, and desktops.
 
-Building this portfolio in SPCK editor gave me valuable experience in writing and organizing HTML and CSS code in a mobile environment. It improved my confidence in designing user interfaces and deepened my understanding of responsive web design. This portfolio not only serves as a personal brand but also as a practical demonstration of my technical abilities.
+Building this portfolio in SPCK editor gave me valuable experience in writing and organizing HTML and CSS code in a mobile environment. It improved my confidence in designing user interfaces and deepened my understanding of responsive web design. This portfolio not only serves as a personal brand but also as a practical demonstration of my technical abilities. 
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/794e6e24-52cf-4798-a3d7-f15964974b45)
+
+![Image](https://github.com/user-attachments/assets/e6e1668e-ceaf-4049-a11b-6eae15a0fce6)
+
+![Image](https://github.com/user-attachments/assets/13b8aa85-93b7-42d3-8751-860adeb54916)
